@@ -1,1 +1,1 @@
-print("ONTOL MELEDUK 🔥😹")
+𝐅𝐔𝐂𝐊 𝐘𝐎𝐔😹
