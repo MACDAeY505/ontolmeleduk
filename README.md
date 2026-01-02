@@ -20,4 +20,4 @@ pkg update && pkg upgrade
 pkg install python git -y
 git clone https://github.com/MACDAeY505/ontolmeleduk
 cd ontolmeleduk
-python main.py
+python ontolmeleduk.py
