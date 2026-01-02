@@ -1,6 +1,6 @@
 # 🔥 OntolMeleduk 🔥
 
-Tools Python sederhana yang dibuat untuk belajar, eksperimen, dan seru-seruan di Termux 😹  
+Tools Python sederhana yang dibuat untuk belajar, dan seru-seruan di Termux 😹  
 Cocok buat pemula yang mau paham alur tools Python dari nol.
 
 ---
