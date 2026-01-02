@@ -9,7 +9,7 @@ Cocok buat pemula yang mau paham alur tools Python dari nol.
 - Simple & ringan 😎
 - Bisa dijalankan di Termux 📱
 - Cocok buat belajar struktur tools Python 🔥
-- No ribet, no bacot 😹
+- No ribet, no yapping 😹
 
 ---
 
